@@ -93,15 +93,19 @@ defaults:
       path: "_recipes"
       type: recipes
     values:
-      layout: post
+      layout: postS
       comments: true
       share: true
 
 # Site Author
 author:
   name: Eric Bailey
-  picture: /images/michael-rose-photo.jpg
+  picture: /images/miSchael-rose-photo.jpg
   email:
   twitter:
 
 # Footer Links
+
+navigation
+  - title: Recipes
+    url: recipes
