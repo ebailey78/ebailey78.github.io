@@ -93,10 +93,17 @@ defaults:
       path: "_recipes"
       type: recipes
     values:
-      layout: postS
+      layout: posts
       comments: true
       share: true
-
+  # Hiking Defaults
+  - scope:
+      path: "_hiking"
+      type: hiking
+    values:
+      layout: posts
+      comments: true
+      share: true
 # Site Author
 author:
   name: Eric Bailey

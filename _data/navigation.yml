@@ -4,11 +4,17 @@
   url: /
 - title: Posts
   url: /posts/
+- title: Hiking
+  url: /hiking/
+- title: Travel
+  url: /travel/
+- title: Home Improvement
+  url: /home_improvement/
+- title: Recipes
+  url: /recipes/
 - title: Categories
   url: /categories/
 - title: Tags
   url: /tags/
-- title: Recipes
-  url: /recipes/
 - title: Search
   url: /search/
