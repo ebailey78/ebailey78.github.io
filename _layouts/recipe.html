@@ -31,6 +31,12 @@ layout: default
         <li>{{ ingredient }}</li>  
         {% endfor %}
         </ul>
+        <h2>Instructions</h2>
+        <ol>
+         {% for step in page.instructions %}
+          <li>{{ step }}</li> 
+         {% endfor %}
+        </ol>
         <div class="e-content">
           {{ content }}
         </div>
