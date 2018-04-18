@@ -93,7 +93,7 @@ defaults:
       path: "_recipes"
       type: recipes
     values:
-      layout: posts
+      layout: recipe
       comments: true
       share: true
   # Hiking Defaults
